@@ -1,0 +1,13 @@
+.carousel-item img {
+    border-radius: 10px; 
+  }
+  
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); 
+    padding: 10px; 
+  }
+  
+  .btn-primary {
+    background-color: #ff0000; 
+    border: none; 
+  }
